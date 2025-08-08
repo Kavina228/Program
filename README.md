@@ -1,2 +1,1 @@
-# Program
-#Language used : Java Programing
+# Language used : Java Programing
